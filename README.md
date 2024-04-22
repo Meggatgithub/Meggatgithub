@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Meggatgithub
 - 👀 I’m interested in AI and Machine Learning ...
 - 🌱 I’m currently learning Python, JS, HTML ...
-- I use the Sublime Text for programming in Python.
-- I'm also the Co-Founder, CTO, and Chairman of Edge Fox AI.
+- 📚 I use the Sublime Text for programming in Python.
 
 
 <!---
